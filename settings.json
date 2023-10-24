@@ -1,0 +1,76 @@
+{
+  "Alliance": {
+    "Bomber": {
+      "countInArmy": 2000
+    , "damage": 20
+    , "accuracy": 0.95
+    , "startHP": 20
+    , "dodging": 0.20
+    }
+  , "Fighter": {
+      "countInArmy": 2000
+    , "damage": 15
+    , "accuracy": 0.75
+    , "startHP": 40
+    , "dodging": 0.30
+    }
+  , "Scout": {
+      "countInArmy": 2000
+    , "damage": 9
+    , "accuracy": 0.6
+    , "startHP": 60
+    , "dodging": 0.3
+    }
+  , "Shuttle": {
+      "countInArmy": 2000
+    , "damage": 4
+    , "accuracy": 0.5
+    , "startHP": 10
+    , "dodging": 0.10
+    }
+  , "Transport": {
+      "countInArmy": 2000
+    , "damage": 6
+    , "accuracy": 0.55
+    , "startHP": 30
+    , "dodging": 0.00
+    }
+  }
+, "Empire": {
+    "Bomber": {
+      "countInArmy": 2000
+    , "damage": 30
+    , "accuracy": 1.0
+    , "startHP": 15
+    , "dodging": 0.15
+    }
+  , "Fighter": {
+      "countInArmy": 2000
+    , "damage": 25
+    , "accuracy": 0.90
+    , "startHP": 30
+    , "dodging": 0.20
+    }
+  , "Scout": {
+      "countInArmy": 2000
+    , "damage": 14
+    , "accuracy": 0.80
+    , "startHP": 50
+    , "dodging": 0.20
+    }
+  , "Shuttle": {
+      "countInArmy": 2000
+    , "damage": 5
+    , "accuracy": 0.70
+    , "startHP": 8
+    , "dodging": 0.10
+    }
+  , "Transport": {
+      "countInArmy": 2000
+    , "damage": 9
+    , "accuracy": 0.80
+    , "startHP": 25
+    , "dodging": 0.05
+    }
+  }
+}

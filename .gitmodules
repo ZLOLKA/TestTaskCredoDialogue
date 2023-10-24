@@ -1,0 +1,3 @@
+[submodule "third-party/cpp17-json"]
+	path = third-party/cpp17-json
+	url = git@gitlab.com:cky/cpp17-json.git
